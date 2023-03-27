@@ -7,5 +7,6 @@ function myFunction() {
 
   // 'img-circle' is a bootstrap thing! Check out more here: http://getbootstrap.com/css/
   $("#doge-image").append(`<img class="img-circle" src="images/wowdoge.jpeg" />`);
+  $("#doge-image").append(`<img class="img-circle" src="images/wowdoge.jpeg" />`);
 }
 
