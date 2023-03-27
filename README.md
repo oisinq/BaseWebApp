@@ -71,11 +71,13 @@ Few editors that you might find helpful:
 In fact, any text editor will  work - if you have favourite one, please use it!
 
 #### 9. Set up your project in Render.com
-Go to https://dashboard.render.com/. After loggin in, click the "New +" button at the top of the screen and select "Web Service".
+Go to https://dashboard.render.com/. After logging in, click the "New +" button at the top of the screen and select "Web Service".
+<img width="1333" alt="Screenshot 2023-03-27 at 11 29 07" src="https://user-images.githubusercontent.com/5693967/227920169-3002cf88-b9bc-4b71-9e99-76db2601fd52.png">
 
 On the right-hand side of the screen, under the GitHub heading click "Connect account" and log-in with your GitHub account from earlier.
 
 Now you can see a list of all of your GitHub repos – click "Connect" for the BaseWebApp repo.
+<img width="1333" alt="Screenshot 2023-03-27 at 11 29 07" src="https://user-images.githubusercontent.com/5693967/227920116-535f9177-6106-4a80-a166-655e5fc8aa1c.png">
 
 On the next screen, use the following settings:
 * Name: Use something unique like base-web-app-YOUR_USERNAME_HERE. This will be used for your website URL
@@ -89,7 +91,7 @@ _*We use automatic deploys at HubSpot - but ours go to a 'QA' or 'staging' site.
 ##### 10. View your app live! (it might take a few seconds to finish deploying)
 After a minute or so, your app should be deployed! The URL is based off of the name from the previous step. If you followed these instructions, your URL should be `https://base-web-app-YOUR_USERNAME_HERE.onrender.com/`
 
-##### 11. Push that change to github (which automatically deploys on Heroku)
+##### 11. Push that change to github (which automatically deploys on Render)
 *If your server is still running from before (it probably is), you can press control + c to halt it
 
 ```
@@ -98,7 +100,7 @@ After a minute or so, your app should be deployed! The URL is based off of the n
 	git push origin master
 ```
 
-##### 10. View your app live! (it might take a few seconds to finish deploying)
+##### 10. View your change live! (it might take a few seconds to finish deploying)
 After a minute or so, your app should be deployed! The URL is based off of the name from the previous step. If you followed these instructions, your URL should be `https://base-web-app-YOUR_USERNAME_HERE.onrender.com/`
 
 
