@@ -7,13 +7,13 @@ Mission- Get up and running with the Base Web App. Should be able to run locally
 
 ##### 0. Before you get started:
 - [ ] <a href="https://signup.heroku.com/" target="_blank">Create Heroku account (primary language = node)</a>
-- [ ] <a href="https://toolbelt.heroku.com/" target="_blank">Download and install Heroku's command line tools</a>
+- [ ] <a href="https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli" target="_blank">Download and install Heroku's command line tools</a>
 - [ ] <a href="https://github.com/join" target="_blank">Create Github account</a>
 - [ ] <a href="https://help.github.com/articles/set-up-git/#setting-up-git" target="_blank">Download and install Git (github's command line tool)</a>
 - [ ] <a href="https://nodejs.org/en/download/" target="_blank">Download and install Node.js</a>
 - [ ] Download and install a text editor (I recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)
 
-##### 1. Make a copy of my existing project on github by forking the project at https://github.com/zsobin/BaseWebApp.git
+##### 1. Make a copy of my existing project on github by forking the project at https://github.com/oisinq/BaseWebApp
 <img width="400" alt="github" src="https://cloud.githubusercontent.com/assets/17851174/25285298/b990a2ae-2687-11e7-845c-2673aa704689.png">
 
 ##### 2. Find and open your terminal 
