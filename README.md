@@ -77,7 +77,7 @@ Go to https://dashboard.render.com/. After logging in, click the "New +" button 
 On the right-hand side of the screen, under the GitHub heading click "Connect account" and log-in with your GitHub account from earlier.
 
 Now you can see a list of all of your GitHub repos – click "Connect" for the BaseWebApp repo.
-<img width="1333" alt="Screenshot 2023-03-27 at 11 29 07" src="https://user-images.githubusercontent.com/5693967/227920116-535f9177-6106-4a80-a166-655e5fc8aa1c.png">
+<img width="1218" alt="Screenshot 2023-03-27 at 11 31 43" src="https://user-images.githubusercontent.com/5693967/227920768-c33b0359-18bb-41ec-b4b4-db3af4c85ed2.png">
 
 On the next screen, use the following settings:
 * Name: Use something unique like base-web-app-YOUR_USERNAME_HERE. This will be used for your website URL
